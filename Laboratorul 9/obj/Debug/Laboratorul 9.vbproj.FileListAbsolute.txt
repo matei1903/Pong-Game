@@ -1,0 +1,12 @@
+D:\visual basic projects\Laboratorul 9\bin\Debug\Laboratorul 9.exe.config
+D:\visual basic projects\Laboratorul 9\bin\Debug\Laboratorul 9.exe
+D:\visual basic projects\Laboratorul 9\bin\Debug\Laboratorul 9.pdb
+D:\visual basic projects\Laboratorul 9\bin\Debug\Laboratorul 9.xml
+D:\visual basic projects\Laboratorul 9\obj\Debug\Laboratorul 9.vbprojAssemblyReference.cache
+D:\visual basic projects\Laboratorul 9\obj\Debug\Laboratorul_9.Form1.resources
+D:\visual basic projects\Laboratorul 9\obj\Debug\Laboratorul_9.Resources.resources
+D:\visual basic projects\Laboratorul 9\obj\Debug\Laboratorul 9.vbproj.GenerateResource.cache
+D:\visual basic projects\Laboratorul 9\obj\Debug\Laboratorul 9.vbproj.CoreCompileInputs.cache
+D:\visual basic projects\Laboratorul 9\obj\Debug\Laboratorul 9.exe
+D:\visual basic projects\Laboratorul 9\obj\Debug\Laboratorul 9.xml
+D:\visual basic projects\Laboratorul 9\obj\Debug\Laboratorul 9.pdb
